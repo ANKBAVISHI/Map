@@ -10,4 +10,5 @@ Android Project
 ->google places search
 
 
-![Alt text](/Screenshot_1494672421.png?raw=true "Optional Title")
+![Alt text](/map1.png?raw=true "Marker on Map by tapping")
+![Alt text](/map2.png?raw=true "Google Searchbar ")
